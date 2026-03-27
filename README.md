@@ -47,8 +47,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=linusgenz&theme=tokyonight&hide_border=true&bg_color=1e1e2e&title_color=6495ed&icon_color=6495ed" width="49%" height="160"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=linusgenz&theme=tokyonight&hide_border=true&background=1e1e2e&ring=6495ed&fire=6495ed&currStreakLabel=6495ed" width="49%" height="160"/>
+  <img src="./profile/stats.svg" width="49%" height="160"/>
+  <img src="./profile/top-langs.svg" width="49%" height="160"/>
 </p>
 
 ---
