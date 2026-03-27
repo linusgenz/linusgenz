@@ -48,7 +48,7 @@
 
 <p align="center">
   <img src="./profile/stats.svg" width="49%" height="160"/>
-  <img src="https://streak-stats.demolab.com/?user=linusgenz&theme=tokyonight" width="49%" height="160"/>
+  <img src="https://streak-stats.demolab.com/?user=linusgenz&theme=tokyonight&hide_border=true&background=1e1e2e&ring=6495ed&fire=6495ed&currStreakLabel=6495ed" width="49%" height="160"/>
 </p>
 
 ---
