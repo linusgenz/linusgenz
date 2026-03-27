@@ -48,7 +48,7 @@
 
 <p align="center">
   <img src="./profile/stats.svg" width="49%" height="160"/>
-  <img src="./profile/top-langs.svg" width="49%" height="160"/>
+  <img src="https://streak-stats.demolab.com/?user=linusgenz&theme=tokyonight" width="49%" height="160"/>
 </p>
 
 ---
